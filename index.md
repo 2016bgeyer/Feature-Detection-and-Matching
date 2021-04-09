@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages  Feature Detection and Matching Documentation
+
+The documentation can be viewed [here](https://github.com/2016bgeyer/Feature-Detection-and-Matching/blob/main/Writeup/P2_Features_Scale_Warping.pdf).
 
 You can use the [editor on GitHub](https://github.com/2016bgeyer/Feature-Detection-and-Matching/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
